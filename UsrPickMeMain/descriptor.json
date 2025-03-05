@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "c5bb4e6c-b26a-48e2-829f-8bbc16383fa5",
+    "Name": "UsrPickMeMain",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1741167379000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrPickMeMain.csproj",
+    "DependsOn": [
+      {
+        "UId": "6c1105a6-9c93-a010-ca8d-6448d2f678d1",
+        "Name": "PartnerMadePackage",
+        "Type": 1
+      }
+    ]
+  }
+}

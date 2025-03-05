@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "6c1105a6-9c93-a010-ca8d-6448d2f678d1",
+    "Name": "PartnerMadePackage",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1741087643000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/PartnerMadePackage.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}
