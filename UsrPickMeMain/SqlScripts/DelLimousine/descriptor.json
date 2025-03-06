@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "de10242d-67d5-672d-4474-e87725b9a8e3",
+    "Name": "DelLimousine",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1741256788000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

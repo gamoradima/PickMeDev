@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "6cae0249-b270-4a9c-81a9-658a94f83065",
+    "Name": "UsrDriver_ListPage",
+    "ModifiedOnUtc": "\/Date(1741262312000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Driver list page"
+  }
+}

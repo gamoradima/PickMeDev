@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "059ccb51-fd3a-4c0e-8860-4fe592d3ad29",
+    "Name": "UsrDriverRelatedPage",
+    "ModifiedOnUtc": "\/Date(1741261565000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Driver (Page settings)",
+    "DependsOn": []
+  }
+}

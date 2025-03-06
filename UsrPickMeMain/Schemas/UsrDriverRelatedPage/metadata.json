@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "059ccb51-fd3a-4c0e-8860-4fe592d3ad29",
+      "A2": "UsrDriverRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "dac5f143-962d-4a79-a075-bd59939cf24a",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "b51bd758-8d6b-4f6b-90ca-819e5f2f837e",
+            "PageSchemaUId": "e61d6d39-91ef-455f-b6b5-4ded9b6c9157",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}
