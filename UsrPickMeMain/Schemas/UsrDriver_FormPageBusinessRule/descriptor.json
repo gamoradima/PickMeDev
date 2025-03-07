@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9155a1ac-bcfd-486e-920b-64ec14ded1ce",
+    "Name": "UsrDriver_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1741347715000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Driver form page (Business rules)",
+    "DependsOn": []
+  }
+}

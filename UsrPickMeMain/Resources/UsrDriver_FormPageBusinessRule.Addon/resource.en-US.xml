@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.3fb38ec7-6325-9e5e-9cc3-801df1949af9.Caption" Value="Show elements: FinanceDataArea" />
+			<Item Name="AddonConfig.Rules.ed1f82a3-a723-5a86-12a4-c6491a0d3433.Caption" Value="Show elements: Push me!" />
+			<Item Name="Caption" Value="Driver form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

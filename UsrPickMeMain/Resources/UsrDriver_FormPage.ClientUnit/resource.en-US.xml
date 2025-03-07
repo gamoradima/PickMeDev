@@ -3,8 +3,13 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Driver form page" />
+			<Item Name="LocalizableStrings.addRecord_0k5xj6g_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_1f2gcjn_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_aoyuodl_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_dtbooa4_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_f7oqgtk_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_q2g2e4y_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>
 </Resources>

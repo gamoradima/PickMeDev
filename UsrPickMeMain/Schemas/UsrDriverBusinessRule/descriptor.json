@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b554e8d3-0d1f-45dd-ac38-3369eb78f340",
+    "Name": "UsrDriverBusinessRule",
+    "ModifiedOnUtc": "\/Date(1741346535000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Driver (Business rules)",
+    "DependsOn": []
+  }
+}

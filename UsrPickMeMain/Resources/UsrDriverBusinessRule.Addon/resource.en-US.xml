@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.4840016b-bb4c-2e45-f4f6-57a532503f21.Caption" Value="Apply static filter: Manager" />
+			<Item Name="AddonConfig.Rules.8ae1d2db-adaa-f68f-cd5e-44764ef535b4.Caption" Value="ChildRule-b491e0ef-d314-9525-a29c-d096d0255722-PopulateValue" />
+			<Item Name="AddonConfig.Rules.b491e0ef-d314-9525-a29c-d096d0255722.Caption" Value="Apply filter: City" />
+			<Item Name="AddonConfig.Rules.c1d134fc-ef3d-3ebe-4ebb-d38140c354e1.Caption" Value="ChildRule-b491e0ef-d314-9525-a29c-d096d0255722-ClearValue" />
+			<Item Name="Caption" Value="Driver (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

@@ -556,6 +556,7 @@
 	<ItemGroup Label="Entity Files">
 		<Compile Remove="$(RelativePkgFolderPath)/UsrPickMeMain/Schemas/UsrCarBodyType/UsrCarBodyType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrPickMeMain/Schemas/UsrCarBodyType/UsrCarBodyType.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrPickMeMain/Schemas/UsrDriver/UsrDriver.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrPickMeMain/Schemas/UsrDriver/UsrDriver.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrPickMeMain/Schemas/UsrDriverStatus/UsrDriverStatus.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrPickMeMain/Schemas/UsrDriverStatus/UsrDriverStatus.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrPickMeMain/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrPickMeMain/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs')" />
 	</ItemGroup>
 	<ItemGroup Label="3rd Party References"></ItemGroup>

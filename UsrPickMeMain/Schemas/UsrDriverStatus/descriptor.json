@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a92071b3-c3dd-4788-b821-2c2dc3350b82",
+    "Name": "UsrDriverStatus",
+    "ModifiedOnUtc": "\/Date(1741340466000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Driver status",
+    "DependsOn": []
+  }
+}

@@ -5,9 +5,15 @@
 			<Item Name="Caption" Value="Driver" />
 			<Item Name="Columns.UsrCarBodyType.Caption" Value="Car body type" />
 			<Item Name="Columns.UsrCareerStarted.Caption" Value="Career started" />
-			<Item Name="Columns.UsrColumn4.Caption" Value="License plate ID" />
+			<Item Name="Columns.UsrCity.Caption" Value="City" />
 			<Item Name="Columns.UsrContact.Caption" Value="Contact" />
+			<Item Name="Columns.UsrCountry.Caption" Value="Country" />
+			<Item Name="Columns.UsrLicensePlateId.Caption" Value="License plate ID" />
+			<Item Name="Columns.UsrManager.Caption" Value="Manager" />
 			<Item Name="Columns.UsrName.Caption" Value="Driver nickname" />
+			<Item Name="Columns.UsrNumber.Caption" Value="Number" />
+			<Item Name="Columns.UsrSensitiveData.Caption" Value="Sensitive data" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
 		</Items>
 	</Group>
 </Resources>

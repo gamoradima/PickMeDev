@@ -37,12 +37,16 @@
   "S4": "59d2ed97-c385-4c36-88c2-9d5e7f16562e",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "f090ead1-91e1-4342-8e60-ce41560e3169"
+  },
   "E17": "UsrCarBodyTypeId",
   "E18": "UsrCarBodyTypeName"
 }
 + MetaData.Schema.D2 {
   "UId": "2347b436-7d53-f7b2-231a-1fb5f730d637",
-  "A2": "UsrColumn4",
+  "A2": "UsrLicensePlateId",
   "A3": "dac5f143-962d-4a79-a075-bd59939cf24a",
   "A4": "dac5f143-962d-4a79-a075-bd59939cf24a",
   "A5": "dea9959a-6263-458b-bf51-97e5471ccea0",
@@ -56,7 +60,11 @@
   "A3": "dac5f143-962d-4a79-a075-bd59939cf24a",
   "A4": "dac5f143-962d-4a79-a075-bd59939cf24a",
   "A5": "dea9959a-6263-458b-bf51-97e5471ccea0",
-  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44",
+  "E12": {
+    "FB1": 3,
+    "FB2": "d7c295d3-3146-4ee1-ac49-3a7bd0edc45d"
+  }
 }
 + MetaData.Schema.D2 {
   "UId": "74f550c9-e958-9aa1-dbe0-9dc1bb621277",
@@ -71,7 +79,84 @@
   "E17": "UsrContactId",
   "E18": "UsrContactName"
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","b081792b-9b05-4279-984f-67da66e9630f","f156a430-8361-9613-2f4a-5d7a3d38511d","2347b436-7d53-f7b2-231a-1fb5f730d637","efe052ec-fd7a-9d9d-9c39-908bd10a5d1a","74f550c9-e958-9aa1-dbe0-9dc1bb621277"]
++ MetaData.Schema.D2 {
+  "UId": "e42fdcb9-8154-1e65-d58c-99e360429168",
+  "A2": "UsrNumber",
+  "A3": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A4": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A5": "dea9959a-6263-458b-bf51-97e5471ccea0",
+  "S2": "325a73b8-0f47-44a0-8412-7606f78003ac",
+  "E5": false,
+  "E12": {
+    "FB1": 4,
+    "FB4": "D-",
+    "FB5": 4
+  }
+}
++ MetaData.Schema.D2 {
+  "UId": "994f673d-07a9-3ce9-b58b-bc03101f050d",
+  "A2": "UsrStatus",
+  "A3": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A4": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A5": "dea9959a-6263-458b-bf51-97e5471ccea0",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "a92071b3-c3dd-4788-b821-2c2dc3350b82",
+  "E6": true,
+  "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "97fc752d-bdf8-4df2-b2d8-8f398e5b0395"
+  },
+  "E17": "UsrStatusId",
+  "E18": "UsrStatusName"
+}
++ MetaData.Schema.D2 {
+  "UId": "23a16bc2-9a60-968c-f849-d0c708ff46c2",
+  "A2": "UsrManager",
+  "A3": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A4": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A5": "dea9959a-6263-458b-bf51-97e5471ccea0",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E17": "UsrManagerId",
+  "E18": "UsrManagerName"
+}
++ MetaData.Schema.D2 {
+  "UId": "8b1929b5-ace7-a954-480e-cbba17b28231",
+  "A2": "UsrCity",
+  "A3": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A4": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A5": "dea9959a-6263-458b-bf51-97e5471ccea0",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "5ca90b6a-93e7-4448-befe-ab5166ec2cfe",
+  "E6": true,
+  "E20": true,
+  "E17": "UsrCityId",
+  "E18": "UsrCityName"
+}
++ MetaData.Schema.D2 {
+  "UId": "57900985-4b92-65bb-995f-83565ce17541",
+  "A2": "UsrCountry",
+  "A3": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A4": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A5": "dea9959a-6263-458b-bf51-97e5471ccea0",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "09fce1f8-515c-4296-95cd-8cd93f79a6cf",
+  "E6": true,
+  "E20": true,
+  "E17": "UsrCountryId",
+  "E18": "UsrCountryName"
+}
++ MetaData.Schema.D2 {
+  "UId": "2e82398a-96d9-eb54-504b-1e560590fc8c",
+  "A2": "UsrSensitiveData",
+  "A3": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A4": "dac5f143-962d-4a79-a075-bd59939cf24a",
+  "A5": "dea9959a-6263-458b-bf51-97e5471ccea0",
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","b081792b-9b05-4279-984f-67da66e9630f","f156a430-8361-9613-2f4a-5d7a3d38511d","2347b436-7d53-f7b2-231a-1fb5f730d637","efe052ec-fd7a-9d9d-9c39-908bd10a5d1a","74f550c9-e958-9aa1-dbe0-9dc1bb621277","e42fdcb9-8154-1e65-d58c-99e360429168","994f673d-07a9-3ce9-b58b-bc03101f050d","23a16bc2-9a60-968c-f849-d0c708ff46c2","8b1929b5-ace7-a954-480e-cbba17b28231","57900985-4b92-65bb-995f-83565ce17541","2e82398a-96d9-eb54-504b-1e560590fc8c"]
 = MetaData.Schema.D20.A2 "UsrDriverEvents"
 = MetaData.Schema.D36.A3 "dac5f143-962d-4a79-a075-bd59939cf24a"
 = MetaData.Schema.D36.BS1 false

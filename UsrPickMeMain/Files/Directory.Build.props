@@ -2,6 +2,7 @@
 	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
 		<Compile Include="$(PkgPath)/UsrPickMeMain/Schemas/UsrCarBodyType/UsrCarBodyType.cs" Condition="Exists('$(PkgPath)/UsrPickMeMain/Schemas/UsrCarBodyType/UsrCarBodyType.cs')" />
 		<Compile Include="$(PkgPath)/UsrPickMeMain/Schemas/UsrDriver/UsrDriver.cs" Condition="Exists('$(PkgPath)/UsrPickMeMain/Schemas/UsrDriver/UsrDriver.cs')" />
+		<Compile Include="$(PkgPath)/UsrPickMeMain/Schemas/UsrDriverStatus/UsrDriverStatus.cs" Condition="Exists('$(PkgPath)/UsrPickMeMain/Schemas/UsrDriverStatus/UsrDriverStatus.cs')" />
 		<Compile Include="$(PkgPath)/UsrPickMeMain/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs" Condition="Exists('$(PkgPath)/UsrPickMeMain/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs')" />
 	</ItemGroup>
 </Project>
