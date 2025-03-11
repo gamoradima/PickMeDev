@@ -54,7 +54,15 @@
   "A5": "dea9959a-6263-458b-bf51-97e5471ccea0",
   "S2": "325a73b8-0f47-44a0-8412-7606f78003ac"
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","736c30a7-c0ec-4fa9-b034-2552b319b633","9e53fd7c-dde4-4502-a64c-b9e34148108b","3fabd836-6a53-4d8d-9069-6df88d9dae1e","13a48c3a-deb3-3978-651f-9fb187187e59"]
++ MetaData.Schema.D2 {
+  "UId": "46fe0aa6-b749-4217-d314-8c81957371e3",
+  "A2": "UsrFrontAirResistance",
+  "A3": "59d2ed97-c385-4c36-88c2-9d5e7f16562e",
+  "A4": "59d2ed97-c385-4c36-88c2-9d5e7f16562e",
+  "A5": "dea9959a-6263-458b-bf51-97e5471ccea0",
+  "S2": "3f62414e-6c25-4182-bcef-a73c9e396f31"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","736c30a7-c0ec-4fa9-b034-2552b319b633","9e53fd7c-dde4-4502-a64c-b9e34148108b","3fabd836-6a53-4d8d-9069-6df88d9dae1e","13a48c3a-deb3-3978-651f-9fb187187e59","46fe0aa6-b749-4217-d314-8c81957371e3"]
 = MetaData.Schema.D20.A2 "UsrCarBodyTypeEvents"
 = MetaData.Schema.D36.A3 "59d2ed97-c385-4c36-88c2-9d5e7f16562e"
 = MetaData.Schema.D36.BS1 false

@@ -9,6 +9,18 @@
 			<Item Name="LocalizableStrings.addRecord_dtbooa4_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_f7oqgtk_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_q2g2e4y_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ExpansionPanel_7syq6od_title.Value" Value="Ride" />
+			<Item Name="LocalizableStrings.FuelSpentCannotBeLess.Value" Value="Fuel spent cannot be less than 2 litres." />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_2i2fne2_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_m0xzcj6_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_qss8int_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_jc5i3j6_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_eddlr6u_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_79iyota_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.Input_6km5kle_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.Input_cl4blp3_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.MileageCannotBeLess.Value" Value="Mileage must be greater than zero." />
+			<Item Name="LocalizableStrings.NumberInput_ipdwqic_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>

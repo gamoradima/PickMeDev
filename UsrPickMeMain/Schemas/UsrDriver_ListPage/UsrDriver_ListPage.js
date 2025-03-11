@@ -69,29 +69,51 @@ define("UsrDriver_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 							"code": "PDS_UsrCarBodyType",
 							"caption": "#ResourceString(PDS_UsrCarBodyType)#",
 							"dataValueType": 10,
-							"width": 179
+							"width": 162
 						},
 						{
 							"id": "a1554e89-c91e-52bb-f85e-c4085ae9020f",
 							"code": "PDS_UsrCareerStarted",
 							"caption": "#ResourceString(PDS_UsrCareerStarted)#",
 							"dataValueType": 7,
-							"width": 181
+							"width": 146
 						},
 						{
-							"id": "c70e9621-a12d-d4a5-facd-6390c01ccbd3",
-							"code": "PDS_UsrColumn4",
-							"caption": "#ResourceString(PDS_UsrColumn4)#",
+							"id": "9d421fec-4f73-1863-3e9f-ce08bc8ab916",
+							"code": "PDS_UsrLicensePlateId",
+							"caption": "#ResourceString(PDS_UsrLicensePlateId)#",
 							"dataValueType": 27,
-							"width": 177
+							"width": 185
 						},
 						{
-							"id": "720ef6f0-fbea-dad5-8f5f-ba1a26a76e56",
+							"id": "e8e036b4-a728-eb95-373a-604de86d0035",
+							"code": "PDS_UsrNumber",
+							"caption": "#ResourceString(PDS_UsrNumber)#",
+							"dataValueType": 27,
+							"width": 178
+						},
+						{
+							"id": "cd528955-14ba-0dbe-3eed-303157c54fb0",
 							"code": "PDS_CreatedOn",
 							"caption": "#ResourceString(PDS_CreatedOn)#",
 							"dataValueType": 7
 						}
-					]
+					],
+					"features": {
+						"rows": {
+							"selection": {
+								"enable": true,
+								"multiple": true
+							}
+						},
+						"editable": {
+							"enable": false,
+							"itemsCreation": false,
+							"floatingEditPanel": false
+						}
+					},
+					"visible": true,
+					"fitContent": true
 				}
 			}
 		]/**SCHEMA_VIEW_CONFIG_DIFF*/,
@@ -120,9 +142,14 @@ define("UsrDriver_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 							"path": "PDS.UsrCareerStarted"
 						}
 					},
-					"PDS_UsrColumn4": {
+					"PDS_UsrLicensePlateId": {
 						"modelConfig": {
-							"path": "PDS.UsrColumn4"
+							"path": "PDS.UsrLicensePlateId"
+						}
+					},
+					"PDS_UsrNumber": {
+						"modelConfig": {
+							"path": "PDS.UsrNumber"
 						}
 					},
 					"PDS_CreatedOn": {
@@ -181,8 +208,11 @@ define("UsrDriver_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						"UsrCareerStarted": {
 							"path": "UsrCareerStarted"
 						},
-						"UsrColumn4": {
-							"path": "UsrColumn4"
+						"UsrLicensePlateId": {
+							"path": "UsrLicensePlateId"
+						},
+						"UsrNumber": {
+							"path": "UsrNumber"
 						},
 						"CreatedOn": {
 							"path": "CreatedOn"

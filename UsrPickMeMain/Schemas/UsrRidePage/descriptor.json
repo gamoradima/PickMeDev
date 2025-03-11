@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4c4a28ad-7b87-4680-8423-1d2bd3c422f1",
+    "Name": "UsrRidePage",
+    "ModifiedOnUtc": "\/Date(1741606986000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Ride page"
+  }
+}

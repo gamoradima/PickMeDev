@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8ffc7d70-f9b4-4bfa-933d-aa1264ab99aa",
+    "Name": "UsrRideRelatedPage",
+    "ModifiedOnUtc": "\/Date(1741607043000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Ride (Page settings)",
+    "DependsOn": []
+  }
+}

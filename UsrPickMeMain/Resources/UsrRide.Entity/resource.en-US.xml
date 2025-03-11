@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Ride" />
+			<Item Name="Columns.UsrComment.Caption" Value="Comment" />
+			<Item Name="Columns.UsrCustomer.Caption" Value="Customer" />
+			<Item Name="Columns.UsrDurationTime.Caption" Value="Duration time" />
+			<Item Name="Columns.UsrParentDriver.Caption" Value="Parent driver" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Price" />
+			<Item Name="Columns.UsrRideFinish.Caption" Value="Ride finish" />
+			<Item Name="Columns.UsrRideStart.Caption" Value="Ride start" />
+		</Items>
+	</Group>
+</Resources>

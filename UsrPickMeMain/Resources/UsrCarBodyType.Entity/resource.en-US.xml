@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="Car body type" />
 			<Item Name="Columns.UsrCode.Caption" Value="Code" />
+			<Item Name="Columns.UsrFrontAirResistance.Caption" Value="Front air resistance, from 0 to 1" />
 		</Items>
 	</Group>
 </Resources>

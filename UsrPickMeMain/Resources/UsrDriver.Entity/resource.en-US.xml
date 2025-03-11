@@ -8,6 +8,9 @@
 			<Item Name="Columns.UsrCity.Caption" Value="City" />
 			<Item Name="Columns.UsrContact.Caption" Value="Contact" />
 			<Item Name="Columns.UsrCountry.Caption" Value="Country" />
+			<Item Name="Columns.UsrFuelConsumption.Caption" Value="Fuel consumption, l/100km" />
+			<Item Name="Columns.UsrFuelSpent.Caption" Value="Fuel spent, l" />
+			<Item Name="Columns.UsrGeneralMileage.Caption" Value="General mileage, km" />
 			<Item Name="Columns.UsrLicensePlateId.Caption" Value="License plate ID" />
 			<Item Name="Columns.UsrManager.Caption" Value="Manager" />
 			<Item Name="Columns.UsrName.Caption" Value="Driver nickname" />

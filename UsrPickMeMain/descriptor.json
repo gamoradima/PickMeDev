@@ -14,6 +14,12 @@
         "Type": 1
       },
       {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
         "UId": "6c1105a6-9c93-a010-ca8d-6448d2f678d1",
         "Name": "PartnerMadePackage",
         "Type": 1
