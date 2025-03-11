@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "ee8f17b9-5600-48d3-853a-6264504ab3cf",
+    "Name": "UsrCalcAverageFuelConsumption",
+    "ModifiedOnUtc": "\/Date(1741694179000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Calculate average fuel consumption"
+  }
+}

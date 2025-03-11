@@ -9,6 +9,8 @@
 			<Item Name="LocalizableStrings.addRecord_dtbooa4_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_f7oqgtk_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_q2g2e4y_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_2rzd425_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.CalcFuelMenuItem_caption.Value" Value="Calc avg fuel consumption" />
 			<Item Name="LocalizableStrings.ExpansionPanel_7syq6od_title.Value" Value="Ride" />
 			<Item Name="LocalizableStrings.FuelSpentCannotBeLess.Value" Value="Fuel spent cannot be less than 2 litres." />
 			<Item Name="LocalizableStrings.GridDetailAddBtn_2i2fne2_caption.Value" Value="New" />

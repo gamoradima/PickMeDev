@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Average Fuel Consumption Page" />
+			<Item Name="Parameters.0d5f7ded-ba6c-7ae7-671a-8956a83fbb8d.Caption" Value="SQLText" />
+			<Item Name="Parameters.ff88084e-d319-ceb8-f170-65afac4ebc22.Caption" Value="Average fuel consumption, l/100 km" />
+		</Items>
+	</Group>
+</Resources>
